@@ -4,6 +4,6 @@ Machine Learning and Data Science related model and practice.
 
 ## Projects
 
-- BuyandBye-recommender : Content based Recommender implementation using TFIDF vector
+- **BuyandBye-recommender** : Content based Recommender implementation using TFIDF vector for the BuyandBye django project
 
-- Recommender-system : Recomender Systems Implemetation
+- **Recommender-systems** : Recomender Systems Implemetation
